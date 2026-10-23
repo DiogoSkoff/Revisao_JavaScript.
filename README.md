@@ -1,0 +1,13 @@
+#Questões
+numero é uma string e numeroReal é um number. numero + 5 resulta em "505" e numeroReal + 5 resulta em 55.
+let idade = 17; let status = idade >= 18 ? "Maior de idade" : "Menor de idade";
+for (let i = 1; i <= 10; i++)
+lista.unshift("Uva");
+lista.pop();
+Índice 2.
+const somar = (a, b) => a + b;
+O filter() cria um novo array sem modificar o original. Se não salvar nem utilizar o resultado, os dados filtrados são descartados.
+Porque .value retorna uma string. Sem conversão, "10" + "5" resulta em "105".
+querySelector() seleciona o primeiro elemento; querySelectorAll() seleciona todos. Usando o primeiro, apenas um parágrafo será selecionado.
+btnSoma.addEventListener("click", calcular);
+if (num2 === 0) { resultado.innerText = "Não se divide por 0"; } else { resultado.innerText = dividir(num1, num2); }
